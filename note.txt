@@ -6,4 +6,7 @@ font awsome:
 
 <i class="fa-solid fa-phone"></i>
 
-<i class="fa-solid fa-bangladeshi-taka-sign"></i>
+
+<i class="fa-regular fa-credit-card"></i>
+
+<i class="fa-regular fa-building"></i>
