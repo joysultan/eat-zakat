@@ -1,0 +1,172 @@
+/* common start */
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* common end */
+/* banner start */
+.banner{
+    background-image: url(images/mehedi-hasan00044-1534795869338.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    margin-top: -5px;
+    overflow: hidden;
+   
+     background-color: rgba(25, 37, 49, 0.7);
+     background-blend-mode: soft-light; 
+    overflow: hidden;
+    
+  
+}
+.b-content{
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 200px;
+    padding-right: 890px;
+    /* position: relative; */
+}
+.b-content h1{
+    font-size: 55px;
+    color: white;
+    line-height: 60px;
+    
+}
+.b-content p{
+    font-size: 19px;
+    line-height: 25px;
+    margin-bottom: 60px;
+    color: white;
+}
+.b-content a{
+    text-decoration: none;
+    background-color: #EF233C;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 7px;
+    font-size: 20px;
+    transition: .3s all ease-in;
+    
+}
+.b-content a:hover{
+    background-color: black;
+    color: white;
+}
+
+/* banner end */
+
+/* donation start */
+    .donation{
+        padding-top: 100px;
+        padding-bottom: 60px;
+     
+        overflow: hidden;
+        
+    }
+    .container{
+        width: 60%;
+        
+        margin: 0 auto;
+        display: flex;
+        
+    }
+    .d-content{
+        width: 50%;
+    }
+    .d-content h1{
+        font-size: 35px;
+        color: #121212;
+        line-height: 55px;
+        font-family: 'Roboto', sans-serif;
+
+    }
+    .d-content p{
+        font-size: 18px;
+        color: gray;
+        line-height: 25px;
+        font-family: 'Roboto', sans-serif;
+
+    }
+    .d-content a{
+        text-decoration: none;
+        background-color: #EF233C;
+        color: white;
+        padding: 15px 30px;
+        transition: .3s all ease-in;
+        font-size: 20px;
+        border-radius: 7px;
+    }
+    .d-content a:hover{
+        background-color: black;
+        color: white;
+    }
+    .map{
+        width: 300px;
+        height: 150px;
+        margin-left: 100px;
+    }
+    .khan{
+        font-size: 25px;
+        font-weight: 700;
+        margin-top: -40px;
+    }
+    .snd-p{
+       margin-bottom:60px;
+    }
+    .survive{
+        width:  80%;
+        margin: 0 auto;
+        display: flex;
+        margin-top: 100px;
+        /* margin-left: 80px; */
+        
+    }
+   .d-content h2{
+    font-size: 25px;
+    line-height: 40px;
+   }
+   .c-ayat{
+    box-shadow: 10px 10px 20px gray;
+    
+   }
+    .d-img{}
+   .d-img img{
+    width: 700px;
+    margin-right: 80px;
+    margin-left: -40px;
+   }
+   .wrap a{
+    text-decoration: none;
+    background-color: #EF233C;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 7px;
+    font-size: 20px;
+    transition: .3s all ease-in;
+
+   }
+   .wrap a:hover{
+    background-color: black;
+    color: white;
+   }
+
+
+/* donation end */
+
+.wrapping{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.w-content{
+    text-align: center;
+}
+
+.w-content h2{
+    font-size: 30px;
+    line-height: 30px;
+    color: #787878;
+    word-spacing: 1px;
+}

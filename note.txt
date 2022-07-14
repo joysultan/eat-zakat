@@ -1,0 +1,9 @@
+font awsome:
+
+<i class="fa-brands fa-facebook"></i>
+
+<i class="fa-brands fa-whatsapp"></i>
+
+<i class="fa-solid fa-phone"></i>
+
+<i class="fa-solid fa-bangladeshi-taka-sign"></i>
