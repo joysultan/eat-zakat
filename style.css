@@ -25,7 +25,7 @@ body{
     width: 30%;
     margin: 0 auto;
     padding-top: 200px;
-    padding-right: 890px;
+    padding-right: 600px;
     /* position: relative; */
 }
 .b-content h1{
@@ -231,3 +231,60 @@ body{
     /* color: #121212; */
 }
 /* service end */
+
+/* recent start */
+    .recent{
+       width: 95%;
+       background-color:#FEF4F5;
+       padding-bottom: 20px;
+       margin: 0 auto;
+       height: auto;
+    }
+    .control{
+        width: 80%;
+        margin: 0 auto;
+        display: flex;
+        padding-right: 80px;
+     
+       
+        
+    }
+    .r-h1{
+        text-align: center;
+        font-size: 30px;
+        color: gray;
+        padding-top: 20px;
+    }
+    .single-item{
+        width: 30%;
+        margin-right:70px;
+       
+       
+        
+    }
+    .single-item img{
+        width: 400px;
+        height: 300px;
+        border-radius: 15px;
+        
+       
+        
+    }
+    footer{
+        background-color: #121212;
+        padding: 50px;
+        text-align: center;
+        margin-top: 40px;
+
+    }
+    footer h2{
+        font-size: 28px;
+        color: #EF233C;
+        font-style: italic;
+
+    }
+    footer p{
+        color: #D9DBE1;
+        font-size: 17px;
+    }
+/* recent end */
